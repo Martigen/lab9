@@ -1,0 +1,15 @@
+package com.example.martigen.lab9;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class zad6 extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        setTitle("zad6");
+        setContentView(R.layout.activity_zad6);
+    }
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab9</string>
+    <string name="todo">TODO</string>
+    <string name="zad1">zad1</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="name2">Name</string>
+</resources>
