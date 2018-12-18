@@ -1,4 +1,4 @@
-/* package com.example.martigen.lab9;
+ package com.example.martigen.lab9;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -145,4 +145,3 @@ public class CanvasImageActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
-*/
